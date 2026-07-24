@@ -104,7 +104,8 @@ Telegram Notifications
 
 # 📷 Screenshots
 
-Coming soon
+![Workflow](images/quality.png)
+
 
 ---
 
