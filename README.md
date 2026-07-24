@@ -122,6 +122,31 @@ Telegram Notifications
 - Real-time monitoring
 
 ---
+## 📊 Results
+
+### Before
+
+❌ Manual call review
+
+❌ Hours of listening
+
+❌ Inconsistent scoring
+
+❌ Delayed feedback
+
+---
+
+### After
+
+✅ AI evaluates every call
+
+✅ Standardized scoring
+
+✅ Automatic reports
+
+✅ Instant Telegram alerts
+
+✅ Historical analytics
 
 # 👨‍💻 Author
 
