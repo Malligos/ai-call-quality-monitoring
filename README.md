@@ -106,6 +106,9 @@ Telegram Notifications
 
 ![Workflow](images/quality.png)
 
+## Dashboard
+
+![Dashboard](images/dashbord.png)
 
 ---
 
